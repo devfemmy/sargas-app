@@ -6,7 +6,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "availity-reactstrap-validation": "^2.6.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "rc-time-picker": "^4.0.0-alpha.2",
     "react": "^16.12.0",
